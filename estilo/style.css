@@ -137,6 +137,8 @@ main p{
  article p {
     font-size: 1.1em;
     font-family: var(--font-padrao);
+    margin-top: 10px;
+    margin-bottom: 10px;
  }
 main img{
     width: 100%;
